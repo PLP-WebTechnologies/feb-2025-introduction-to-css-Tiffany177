@@ -27,3 +27,41 @@ Margins, paddings, and borders.
  - Improve readability and aesthetics.
 
 Happy Coding! 💻✨
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Page Example</title>
+    <link rel="stylesheet" href="style.css"> <!-- Linking the external CSS file -->
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to My Stylish Page</h1>
+    </header>
+
+    <!-- Main Content Section -->
+    <div id="main-content">
+        <h2>About Me</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae enim sed libero egestas fermentum.</p>
+        
+        <!-- Styling an image -->
+        <img src="https://via.placeholder.com/600x300" alt="Placeholder Image">
+
+        <p>I'm passionate about web design and development. In my free time, I enjoy learning new programming languages and improving my skills.</p>
+
+        <!-- Button styled using a class -->
+        <button class="button">Learn More</button>
+    </div>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 My Website</p>
+    </footer>
+
+</body>
+</html>
+
